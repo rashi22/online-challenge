@@ -1,5 +1,5 @@
 # Three Tier Deployment on AWS
-## _Deployment of EC2 with RDs in private subnet served by a load balancer_
+## _Deployment of EC2 with RDS in private subnet served by a load balancer_
 
 
 # online-challenge
