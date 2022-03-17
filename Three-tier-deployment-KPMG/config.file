@@ -1,0 +1,7 @@
+
+
+#enter names for the CFT stacks for vpc, ec2 and rds
+
+vpcstack="vpc-stack"
+ec2stack="ec2-stack"
+rdsstack="rds-stack"
